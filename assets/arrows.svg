@@ -1,0 +1,14 @@
+<svg width="11" height="133" viewBox="0 0 11 133" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="arrows">
+<path id="Vector 1" d="M4 1L5 125" stroke="url(#paint0_linear_216_5)"/>
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M0.209848 126.212C0.103141 126.07 0.055595 125.911 0.0570196 125.755C0.0605719 125.366 0.369902 125.003 0.812884 125.007L9.31353 125.085C9.75851 125.089 10.0601 125.458 10.0566 125.846C10.0552 126.003 10.0037 126.162 9.89344 126.302C8.67629 127.845 6.60323 130.471 5.58541 131.761C5.44173 131.943 5.22277 132.047 4.99078 132.045C4.76079 132.043 4.54278 131.934 4.40246 131.749C3.41237 130.441 1.39462 127.776 0.209848 126.212Z" fill="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_216_5" x1="4.49998" y1="0.995968" x2="5.49998" y2="124.996" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.0001" stop-color="#44494D" stop-opacity="0.255208"/>
+<stop offset="0.59375" stop-color="#B3B5B7" stop-opacity="0.697398"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
