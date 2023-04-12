@@ -15,6 +15,32 @@ $(document).ready(function () {
 })
 
 
+// form validation
+
+
+$(document).ready(function () {
+    $('.contact-form').submit(function (e) {
+        e.preventDefault();
+
+        let name = $('#name').val();
+        let email = $('#email').val();
+        let phone = $('#number').val();
+        let message = $('#msg').val();
+
+
+
+        if (name && email && phone && message) {
+            $('.msg').text('Thanks for contacting us! We will get back to you soon.').css({ 'color': 'green' })
+        } else {
+            $('.msg').text('Input should not be empty').css({ 'color': 'crimson' })
+        }
+
+    })
+})
+
+
+// form validation end
+
 
 
 
